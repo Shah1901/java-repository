@@ -10,8 +10,8 @@ System.out.println("Enter your age :");
 
 int age = scanner.nextInt();
 
-System.out.println("Hello , " + name + " You are " + age + " years old. ");
+System.out.println("Hello " + name + ", You are " + age + " years old. ");
 
 scanner .close();
 }
-} 
+}
